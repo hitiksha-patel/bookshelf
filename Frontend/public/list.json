@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "title": "The Great Gatsby",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 2,
+      "name": "To Kill a Mockingbird",
+      "title": "To Kill a Mockingbird",
+      "price": 12.99,
+      "category": "Classic",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 3,
+      "name": "1984",
+      "title": "1984",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 4,
+      "name": "Pride and Prejudice",
+      "title": "Pride and Prejudice",
+      "price": 8.99,
+      "category": "Classic",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 5,
+      "name": "The Catcher in the Rye",
+      "title": "The Catcher in the Rye",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 6,
+      "name": "Alice's Adventures in Wonderland",
+      "title": "Alice's Adventures in Wonderland",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 7,
+      "name": "The Adventures of Sherlock Holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "price": 10.99,
+      "category": "Mystery",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 8,
+      "name": "The Da Vinci Code",
+      "title": "The Da Vinci Code",
+      "price": 14.99,
+      "category": "Mystery",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 9,
+      "name": "Gone Girl",
+      "title": "Gone Girl",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    },
+    {
+      "id": 10,
+      "name": "The Girl with the Dragon Tattoo",
+      "title": "The Girl with the Dragon Tattoo",
+      "price": 12.99,
+      "category": "Mystery",
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23905.jpg?t=st=1712979469~exp=1712983069~hmac=51e92f04ebe3416bcb82ab985d67dd2c5ea8496313f30711695ca61092f4211b&w=1380"
+    }
+  ]
+  
