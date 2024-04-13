@@ -8,7 +8,7 @@ dotenv.config();
 const PORT = process.env.PORT || 5001
 
 app.get('/', (req, res) => {
-  res.send('Bookshelf')
+  res.send('Bookshelf is running!!!')
 })
 
 app.listen(PORT, () => {
