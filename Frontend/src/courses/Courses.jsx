@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import Course from '../components/CourseList'
+import CourseList from '../components/CourseList'
 import Footer from '../components/Footer'
 
 
@@ -9,7 +9,7 @@ function Courses() {
     <>
         <Navbar />
         <div className='min-h-screen'>
-            <Course />
+            <CourseList />
         </div>
         <Footer />
     </>
