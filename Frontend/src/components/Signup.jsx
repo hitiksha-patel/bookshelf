@@ -22,7 +22,7 @@ function Signup() {
       password: data.password,
     };
     await axios
-      .post("http://127.0.0.1:5000/user/signup", userInfo)
+      .post("https://bookshelf-ten-zeta.vercel.app/user/signup", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
