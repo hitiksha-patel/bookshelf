@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 
-
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -13,7 +12,7 @@ function FreeBooks() {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get(import.meta.env.BASE_URL + "/book");
+        const res = await axios.get(`${import.meta.env.VITE_BASE_URLS}/book`);
         setBook(res.data.filter((data) => data.category === "Free"));
       } catch (error) {
         console.log(error);
@@ -21,7 +20,6 @@ function FreeBooks() {
     };
     getBook();
   }, []);
-
 
   var settings = {
     dots: true,

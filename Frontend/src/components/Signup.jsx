@@ -22,7 +22,7 @@ function Signup() {
       password: data.password,
     };
     await axios
-      .post(import.meta.env.BASE_URL + "/user/signup", userInfo)
+      .post(`${import.meta.env.VITE_BASE_URLS}/user/signup`, userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {

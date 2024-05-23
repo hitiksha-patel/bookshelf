@@ -17,7 +17,7 @@ function Login() {
       password: data.password,
     };
     await axios
-      .post(import.meta.env.BASE_URL + "/user/login", userInfo)
+      .post(`${import.meta.env.VITE_BASE_URLS}/user/login`, userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
@@ -26,12 +26,12 @@ function Login() {
           setTimeout(() => {
             window.location.reload();
             localStorage.setItem("Users", JSON.stringify(res.data.user));
-          }, 3000)
+          }, 3000);
         }
       })
       .catch((err) => {
         toast.error("Error: " + err.response.data.message);
-        setTimeout(()=>{},3000)
+        setTimeout(() => {}, 3000);
       });
   };
   return (
