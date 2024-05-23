@@ -17,7 +17,7 @@ function Login() {
       password: data.password,
     };
     await axios
-      .post("https://bookshelf-ten-zeta.vercel.app/user/login", userInfo)
+      .post(import.meta.env.BASE_URL + "/user/login", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
